@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arms63&label=Profile%20views&color=008ae6&style=flat-square" alt="arms636" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulrahiman_ms" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrahiman_ms?logo=twitter&style=for-the-badge" alt="abdulrahiman_ms" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arahiman_ms" target="blank"><img src="https://img.shields.io/twitter/follow/arahiman_ms?logo=twitter&style=for-the-badge" alt="arahiman_ms" /></a> </p>
 
 - 👀 I’m interested in **Cyber Security**
  
