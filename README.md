@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdulrahiman_ms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdulrahiman_ms" height="30" width="40" /></a>
+<a href="https://twitter.com/arahiman_ms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arahiman_ms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdulrahimanms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdulrahimanms" height="30" width="40" /></a>
 <a href="https://fb.com/rahiman.ms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahiman.ms" height="30" width="40" /></a>
 <a href="https://abdulrahiman-ms.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="abdulrahiman-ms." height="30" width="40" /></a>
